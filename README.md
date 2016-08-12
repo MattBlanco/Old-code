@@ -2,7 +2,7 @@
 
 
 Old code from an internship to set up a test stand.
-
+Definitely should have used header files to organize code.
 
 
 Initializes a main menu with the following:
