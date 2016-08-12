@@ -12,3 +12,5 @@ Initializes a main menu with the following:
   2. No Switches
 2. Auto Mode - warns user if ran without setup mode first
 3. Setup Mode
+
+Designed to be used with a 16x4 LCD screen and a 12 digit keypad.
