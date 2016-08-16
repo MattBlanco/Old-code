@@ -1,7 +1,7 @@
 # Old-code
 
 
-Old code from an internship to set up a test stand.
+Old code from an internship to set up a test stand for actuators.
 Definitely should have used header files to organize code.
 
 
@@ -12,5 +12,7 @@ Initializes a main menu with the following:
   2. No Switches
 2. Auto Mode - warns user if ran without setup mode first
 3. Setup Mode
+
+Controls an actuator either automatically, manually, or with limit switches
 
 Designed to be used with a 16x4 LCD screen and a 12 digit keypad.
