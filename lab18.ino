@@ -16,7 +16,7 @@
  * LCD D7 pin to digital pin 27
  * LCD R/W pin to ground     */
 LiquidCrystal lcd(22, 23, 24, 25, 26, 27);
-byte Up[8] = {//Create new  the up arrow
+byte Up[8] = {//Create up arrow because there is no native one
   0b00000,
   0b00100,
   0b01110,
@@ -26,7 +26,7 @@ byte Up[8] = {//Create new  the up arrow
   0b00000,
   0b00000
 };
-byte Down[8] = {//Create new  the down arrow
+byte Down[8] = {//Create down arrow because there is no native one
   0b00000,
   0b00100,
   0b00100,
